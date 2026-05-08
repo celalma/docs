@@ -1,5 +1,4 @@
 ![Voices of the Void](https://github.com/celalma/docs/blob/main/assets/images/votv-title.jpg)
-___
 
 This is a guide for Voices of the Void.
 If the guide isn't enough, check out the community wiki [here](https://voicesofthevoid.wiki.gg/)
