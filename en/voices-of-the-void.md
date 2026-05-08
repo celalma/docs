@@ -1,4 +1,4 @@
-![Voices of the Void](https://github.com/celalma/docs/blob/main/assets/images/votv-title.jpg)
+![Voices of the Void](https://github.com/celalma/docs/main/assets/images/votv-title.jpg)
 
 This is a guide for Voices of the Void.
 If the guide isn't enough, check out the community wiki [here](https://voicesofthevoid.wiki.gg/)
@@ -29,7 +29,7 @@ Each day, Bao will send you a E-mail (that you can check on the *computer*) will
 
 2. **Satellite dishes**. To get the data from the satellites dishes, look which stallites' data is asked by Bao. You can note their names on a *sheet of paper* or in a *notepad* (these items can be found in drawers scattered around the base or bought via the computer). to avoid getting lost in the woods, you can look up where the satellites are located on the map above the *Sonar* or on the below map :
 
-![map](https://github.com/celalma/docs/blob/main/assets/images/votv-map.svg)
+![map](https://github.com/celalma/docs/main/assets/images/votv-map.svg)
 
 3. **Daily reels**. In hte main room, to the right, you can find a machine with two *Data tapes*. Check their status by looking at the button in the center. Each day, data is recorded passively. You need to wait until both reels are full, put them in a Data tape case and close it with the lid. One done, put the case in the *Drone sack*. Each day, the drone will bring two new Data tapes, a ase and a lid.
 
