@@ -1,4 +1,5 @@
-# Voices of the Void
+![Voices of the Void](/assets/images/votv-title.jpg)
+
 This is a guide for Voices of the Void.
 If the guide isn't enough, check out the community wiki [here](https://voicesofthevoid.wiki.gg/)
 
@@ -9,7 +10,7 @@ follow their in-depth install process.
 ## Tutorial
 After launching the game, we recommand playing the tutorial. For the rest of the guide, we'll assume that you know the basics of the game such as how to move or how to interact with objects.
 
-## Guide
+# Guide
 
 ### Part 1 - Discovering
 
@@ -26,8 +27,15 @@ Each day, Bao will send you a E-mail (that you can check on the *computer*) will
 
 1. **Gathering signals**. To gather signals, you need to use the *Cumputer Table* (not to be confused with the computer or main computer). Theoritically, you should have understood how it works during the *Tutorial*. On the third screen, before exporting the signal on a *drive*, we recommand sendigng it to the computer so you can access it later. One done, export the signal on a drive and put it in a *Drive box*.
 
-2. **Satellite dishes**. To get the data from the satellites, look which stallites' data is asked by Bao. You can note their names on a *sheet of paper* or in a *notepad* (these items can be found in drawers scattered around the base or bought via the computer). to avoid getting lost in the woods, you can look up where the satellites are located on the map above the *Sonar* or on the below map :
+2. **Satellite dishes**. To get the data from the satellites dishes, look which stallites' data is asked by Bao. You can note their names on a *sheet of paper* or in a *notepad* (these items can be found in drawers scattered around the base or bought via the computer). to avoid getting lost in the woods, you can look up where the satellites are located on the map above the *Sonar* or on the below map :
 
 ![map](/assets/images/votv-map.svg)
 
-3. 
+3. **Daily reels**. In hte main room, to the right, you can find a machine with two *Data tapes*. Check their status by looking at the button in the center. Each day, data is recorded passively. You need to wait until both reels are full, put them in a Data tape case and close it with the lid. One done, put the case in the *Drone sack*. Each day, the drone will bring two new Data tapes, a ase and a lid.
+
+> [!NOTE]
+> This task is not mandatory, but it rewards you with some useful **Points**.
+
+### Part 3 - Maintenance
+
+
