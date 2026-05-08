@@ -18,3 +18,11 @@ Sounds complicated ? Trust me, it is far more difficult that what you think alre
 But no worries, we're here to help.
 
 When you launch a new game, you will find yourself at the entrance of the sector. Grab your belongings and wollow the signs to your base. The forest might look scary, but there realy is nothing to worry about. You can use your flashlignt by pressing <kbd> F </kbd> .
+One you're at the base, you can settle. No tasks are planned on the first day, so you can take advantage of the time you have to clean up the place a bit and tidy up the base.
+
+### Part 2 - Tasks
+
+Each day, Bao will send you a E-mail (that you can check on the *computer*) will some tasks that you need to complete :
+
+1. **Gathering signals**. To gather signals, you need to use the *Cumputer Table* (not to be confused with the computer or main computer). Theoritically, you should have understood how it works during the *Tutorial*. On the third screen, before exporting the signal on a *drive*, we recommand sendigng it to the computer so you can access it later. One done, export the signal on a drive and put it in a *Drive box*.
+2. **Satellite dishes**. To get the data from the satellites, look which stallites' data is asked by Bao. You can note their names on a *sheet of paper* or in a *notepad* (these items can be found in drawers scattered around the base or bought via the computer). to avoid getting lost in the woods, you can look up where the satellites are located on the map above the *Sonar* or on the below map :
