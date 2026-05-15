@@ -55,7 +55,7 @@ In `server_scripts`:
 
 ### Shapeless recipe
 ```js
-ServerEvents.recipes(event =>{
+ServerEvents.recipes(event => {
     event.shapeless('output', 'input')
 })
 ```
@@ -64,14 +64,15 @@ ServerEvents.recipes(event =>{
 
 ### Shaped recipe
 ```js
-ServerEvents.recipes(event =>{
-     event.shaped('output', [
+ServerEvents.recipes(event => {
+     event.shaped('minecraft:saddle', [
           ' A ',
           'ABA',
           '   '
-     ],{
+     ], {
           A: 'minecraft:leather',
           B: 'minecraft:iron'
      })
 })
 ```
+Above in an example of a shaped recipe for crafting a saddle. You essentially need to reproduce the layout of the crafting table and fill in the places where you want your items to be, and defin them with a letter. As you can see, you can leave a crafting slot empty by typing the <kbd>Space</kbd> character
