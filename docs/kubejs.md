@@ -60,7 +60,7 @@ ServerEvents.recipes(event =>{
 })
 ```
 >[!NOTE]
->Entries such as `'input'` can be arrays. For example : `event.shapeless(minecraft:blackstone, [minecraft:cobblestone, minecraft:black_dye])`
+>Entries such as `'input'` can be arrays. For example : `event.shapeless('minecraft:blackstone', ['minecraft:cobblestone', 'minecraft:black_dye'])`
 
 ### Shaped recipe
 ```js
