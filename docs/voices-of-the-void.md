@@ -56,6 +56,9 @@ There are multiple types of thrash. You can find *trash clumps* and *piles of tr
 > [!NOTE]
 > *Trash clumps* here refer to the clumps while the term *trash pile* refers to the various items and junk, which can look like empty bottles, glasses, or crumpled sheets of paper.
 
+![Trash clump](/assets/images/votv-trashclump.png)  
+<sup> *Example of a trash clump* </sup>
+
 You can put *trash clumps* in garbage bags using *empty garbage bags* or *garbage bags roll* found in the utility closet. You can also oder som from the store using the *main computer*. Trash piles in bags canbe sold for 2 Points, making it an easy source of money early-game. In addition, you can use a shovel on the clumps to transform them into their corresponding *trash items* (different from trash piles).
 
 You can take indiviudal trash item out of thrash piles by dragging them out (each trash pile contains 5 trash items), or you can us a *broom* which not only allows you to easily move a larger quantity of trash cumps and trash piles but automatically turns trash piles into singular trash items.
