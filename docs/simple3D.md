@@ -1,3 +1,5 @@
+<img src="/assets/images/simple3D.png" alt="simple3D" width =100%>
+
 # Overview
 
 Simple3D is a javascript extension for [Turbowarp](https://turbowarp.org), which is a mod of [Scratch](https://scratch.mit.edu), the popular platform where you can create you own projects such as simple games using block-based programming. Simple3D, based on WebGL allows for advanced rendering capabilities such as 3D rendering and calculations on the GPU.
