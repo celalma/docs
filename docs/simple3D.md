@@ -1,4 +1,4 @@
-<img src="/assets/images/simple3D.png" alt="simple3D" width =100%>
+<img src="/assets/images/simple3D-logo.png" alt="simple3D" width =100%>
 
 # Overview
 
