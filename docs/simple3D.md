@@ -10,4 +10,5 @@ You can also check Simple3D's website, which hyas a number of example projects t
 In this guide, we'll see how it works, how to use it and how to create a 3D world with camera movement and importing your own 3D models.
 
 ## Installation
-In order to use Simple3D, open the [web Turbowarp editor](https://turbowarp.org/editor) or download the desktop app, open the extension menu by clicking on the button on the bottom left of the editor and search for Simple3D. From now, you can click on the extension to start a new project from scratch or you can click on <ins>Sample Project</ins> to have a base to build on.
+In order to use Simple3D, open the [web Turbowarp editor](https://turbowarp.org/editor) or download the desktop app, open the extension menu by clicking on the button on the bottom left of the editor and search for Simple3D. From now, you can click on the extension to start a new project from scratch or you can click on <ins>Sample Project</ins> to have a base to build on.  
+In this guide, we'll tackle both cases.
