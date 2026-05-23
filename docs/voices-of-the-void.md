@@ -1,11 +1,11 @@
 ![Voices of the Void](/assets/images/votv-title.jpg)
 
 This is a guide for Voices of the Void.
-If the guide isn't enough, check out the community wiki [here](https://voicesofthevoid.wiki.gg/)
+If the guide isn't enough, check out the [community wiki](https://voicesofthevoid.wiki.gg/)
 
 ## Installation
 You can download Voices of the Void [here](https://votv.dev).
-follow their in-depth install process.
+Follow their in-depth install process.
 
 ## Tutorial
 After launching the game, we recommand playing the tutorial. For the rest of the guide, we'll assume that you know the basics of the game such as how to move or how to interact with objects.
@@ -33,9 +33,6 @@ Each day, Bao will send you a E-mail (that you can check on the *computer*) will
 
 3. **Daily reels**. In hte main room, to the right, you can find a machine with two *Data tapes*. Check their status by looking at the button in the center. Each day, data is recorded passively. You need to wait until both reels are full, put them in a Data tape case and close it with the lid. One done, put the case in the *Drone sack*. Each day, the drone will bring two new Data tapes, a ase and a lid.
 
-> [!NOTE]
-> This task is not mandatory, but it rewards you with some useful **Points**.
-
 ## Part 3 - Maintenance
 ### Satellite calibration
 Over time, satellites will lose in precision, slowing down the **download speed**. To fix this, go in the Server Room on the *Command Panel* and type `sv.calall` to re-calibrate all satellites dishes. You can also calibrate a specific satellite by typing `sv.cal [NAME]`. The `sv.calch` command list the calibration value of each staellite dish.
@@ -47,3 +44,20 @@ You will need to take care of your servers if you want everything to go as fast 
 >If a Satellite server is down, it will slow down the dowloading procedure.
 >
 >If a Base server is down, it will make signal processing (signal enhancing) slower.
+
+## Part 4 - Cleaning
+
+I assume you have seen the mess that the Alpha base is. Clumps of trash everywhere, dust on the fllor, stains on the walls and windows, random wood mannequins and boken furniture. This place is a mess.  
+There are multiple types of thrash. You can find *trash clumps* and *piles of trash*.
+
+> [!NOTE]
+> *Trash clumps* here refer to the clumps while the term *trash pile* refers to the various items and junk, which can look like empty bottles, glasses, or crumpled sheets of paper.
+
+Time to tidy it up! In the utility closet, whose door is hidden behind curtains, you'll find a bunch of tools to help you clean up the base. You'll find a **broom* and two **buckets*, one filled with drives. In the main signal room, next to the emergency shower, you can find a *sponge* along with *soap*. You can find two more in the showers of the upstairs bathroom.
+
+You can put *trash clumps* in garbage bags using *empty garbage bags* or *garbage bags roll* found in the utility closet. You can also oder som from the store using the *main computer*. Trash piles in bags canbe sold for 2 Points, making it an easy source of money early-game. In addition, you can use a shovel on the clumps to transform them into their corresponding *trash items* (different from trash piles).
+
+You can take indiviudal trash item out of thrash piles by dragging them out (each trash pile contains 5 trash items), or you can us a *broom* which not only allows you to easily move a larger quantity of trash cumps and trash piles but automatically turns trash piles into singular trash items.
+
+Trash items can also be turned into their corresponding *scrap* by putting the right amount on the *crafting workbench* in the garage. More datail about crafting trash into scrap can be found in a *notebook* on the workbench.
+Scrap is also a good source of money as it can be sold for 8 Points.
