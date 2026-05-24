@@ -16,7 +16,55 @@ In this guide, we'll tackle both cases.
 # Guide
 
 ## Starting up
-Create a new project in Turbowarp, and open the Simple3D extension.
+Create a new project in Turbowarp, and add the Simple3D extension.
 We wil start off by defining the *clear color*, which is like the "background" color :
 
-![](/assets/scratchblocks/scratchblocks (13))
+![](/assets/scratchblocks/clear.svg)
+
+This sets the background color to black, where the `Red`, `Green`, `Blue` and `Alpha` channels are set with a value between 0 and 1.
+
+## Introduction to meshes
+
+Now, time to create a mesh. A mesh is a 3D representation of an object. It consists of a collection of faces, edges and vertices that define the object's shape and structure. Let's say we want to display a simple plane which will be the ground of our 3D world.
+Create two new list and name them "**planeX**" and "**planeY**". Fill them with the numbers shown below :
+
+**planeX :**  
+`-1`  
+`1`  
+`-1`  
+`-1`  
+`1`  
+`1`  
+
+**planeY :**  
+`-1`  
+`-1`  
+`1`  
+`1`  
+`-1`  
+`1`  
+
+These are the *vertices*, or the corners of your mesh. They define the shape of your mesh.
+
+### UV
+
+Create a new costume for your sprite or import. We will use this costume as the *texture* of our mesh.
+Next, create two other list, called "**planeU**" and "**planeV**". Fill them with the following values :
+
+**planeU :**  
+`0`  
+`1`  
+`0`  
+`0`  
+`1`  
+`1`  
+
+**planeV :**  
+`0`  
+`0`  
+`1`  
+`1`  
+`0`  
+`1`  
+
+UV*s* 
