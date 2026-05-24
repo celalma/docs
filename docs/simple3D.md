@@ -12,3 +12,9 @@ In this guide, we'll see how it works, how to use it and how to create a 3D worl
 ## Installation
 In order to use Simple3D, open the [web Turbowarp editor](https://turbowarp.org/editor) or download the desktop app, open the extension menu by clicking on the button on the bottom left of the editor and search for Simple3D. From now, you can click on the extension to start a new project from scratch or you can click on <ins>Sample Project</ins> to have a base to build on.  
 In this guide, we'll tackle both cases.
+
+# Guide
+
+## Starting up
+Create a new project in Turbowarp, and open the Simple3D extension.
+We wil start off by defining the *clear color*, which is like the "background" color :
