@@ -18,3 +18,5 @@ In this guide, we'll tackle both cases.
 ## Starting up
 Create a new project in Turbowarp, and open the Simple3D extension.
 We wil start off by defining the *clear color*, which is like the "background" color :
+
+![](/assets/scratchblocks/scratchblocks (13))
