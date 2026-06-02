@@ -14,4 +14,4 @@ Here, you'll be able to find documentation, tutorials and guides about Celalma's
 *Thought 3D in Scratch was impossible? Not anymore*
 
 - **Desktop game**  
-*Create games that you can play on the desktop of your compuer and virtual friends you can play with while o using your PC*
+*Create games that you can play on the desktop of your compuer and virtual friends you can play with while using your PC*
